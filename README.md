@@ -1,7 +1,7 @@
 # cycurity.github.io
 Prototype of the App "Cycurity" that my team developed at the Code4Green Hackathon by the the Federal Ministry for the Environment.
 
-Team members:
+Team members: <br>
 Tobias Feitkenhauer - Business & Project Owner
 Rose - Business Assistant
 Boryana Chervivola - UX/UI Designer
