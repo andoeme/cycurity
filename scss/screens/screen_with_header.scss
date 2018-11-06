@@ -1,0 +1,32 @@
+.screen-with-header-header {
+  padding-top: 1.6em;
+  background: $header-background-color;
+  color: white;
+  position: relative;
+  height: 160px;
+  margin-bottom: 110px;
+}
+
+.screen-with-header-header__back {
+}
+
+.screen-with-header-header__title {
+  text-align: center;
+  font-size: 1.3em;
+  font-weight: bold;
+}
+
+.screen-with-header-header__back {
+  position: absolute;
+  left: 1em;
+}
+
+.profile-picture {
+  width: 180px;
+  height: 180px;
+  border-radius: 90px;
+  position: absolute;
+  left: 50%;
+  margin-left: -90px;
+  bottom: -90px;
+}

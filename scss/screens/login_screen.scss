@@ -1,0 +1,55 @@
+.login-screen__logo {
+  margin: 0 auto;
+}
+
+.login-screen {
+  .container {
+    margin: 0 auto;
+  }
+
+  img {
+    padding-top: 20vh;
+  }
+
+  .leftMargin {
+    margin-left: 29vw;
+  }
+
+  .centerButton {
+    margin-left: 37vw;
+  }
+
+  .active {
+    color: #ff473d;
+  }
+
+  .red {
+    background: #ff473d;
+  }
+
+  .jumbotron {
+    background: #fff;
+  }
+ 
+  a {
+    color: #000; 
+  }
+
+  input {
+    max-width: 50vw;
+    margin: 0 auto;
+    background: #fff;
+    border: 1px solid #777;
+  }
+
+  input:hover, input:focus, input:active {
+    background: #fff;
+    border: 1px solid #000;
+  }
+
+  
+
+  #signIn {
+    border: 0;
+  }
+}

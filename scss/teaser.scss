@@ -1,0 +1,35 @@
+.teaser {
+  height: 180px;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  color: white;
+  z-index: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1em;
+  border-radius: 5px;
+  overflow: hidden;
+  &::before {
+    background-color: rgba(#fa8826, 0.60);
+    z-index: -1;
+    content: '';
+    display: block;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+  a, a:hover {
+    color: inherit;
+  }
+}
+
+.teaser--bike-stand {
+  background: url("/img/bike_stand.jpeg")  #ff0000;
+}
+
+.teaser--heat-map {
+  background-image: url("/img/heatmap.jpeg");
+}

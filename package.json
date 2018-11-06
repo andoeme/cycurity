@@ -1,0 +1,19 @@
+{
+  "name": "lockmybike",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "npm": "^6.4.1",
+    "osmtogeojson": "^3.0.0-beta.3"
+  },
+  "devDependencies": {
+    "sass": "^1.14.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": ""
+}

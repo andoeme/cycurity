@@ -1,0 +1,16 @@
+// @import "";
+
+@import "./variables";
+@import "./screens/startup_screen";
+@import "./screens/login_screen";
+@import "./screens/map_screen";
+@import "./screens/screen_with_header";
+@import "teaser";
+@import "./forms";
+
+
+html, body, .sidebar, #main-map, .map-wrap, .main-container, .screen {
+	height: 100%;
+  overflow: hidden;
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+}
