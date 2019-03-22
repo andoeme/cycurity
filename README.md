@@ -1,5 +1,5 @@
-# cycurity.github.io
-<p>Prototype of the App "Cycurity" that my team developed at the Code4Green Hackathon by the the Federal Ministry for the Environment.</p>
+# Cycurity
+<p>Prototype of the App "Cycurity" that my team developed at the Code4Green Hackathon by the Federal Ministry for the Environment.</p>
 
 ## Team members
 <p>Tobias Feitkenhauer - Business & Project Owner</p>
